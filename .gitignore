@@ -1,0 +1,7 @@
+# Obsidian
+.obsidian/
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.d
