@@ -1,7 +1,7 @@
 # 📚 Appunti Programmazione 2
 
-Note personali del corso di **Programmazione 2** scritte in Obsidian.  
-Gli appunti coprono la programmazione orientata agli oggetti con Java e C++.
+Appunti del corso di **Programmazione 2** scritte in Obsidian.  
+Gli appunti coprono la programmazione orientata agli oggetti con Java.
 
 ---
 
@@ -21,7 +21,6 @@ Appunti-Programmazione-2/
 - Design Patterns (Singleton, Factory, Strategy)
 - Principi SOLID
 - Layout in memoria, Stack e Heap
-- Confronto Java / C++
 
 ---
 
